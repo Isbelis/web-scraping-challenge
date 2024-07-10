@@ -1,4 +1,4 @@
-# scraping-challenge
+# web-scraping-challenge
 # Introduction
 
 After learning to identify HTML elements on a page, extract information using automated browsing with Splinter and HTML parsing with Beautiful Soup, and scrape various types of data like HTML tables and recurring elements from webpages, this challenge presents a full web-scraping and data analysis project. This project allows you to strengthen core skills in data collection, organization, storage, analysis, and visualization.
