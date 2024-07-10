@@ -27,11 +27,10 @@ This assignment consists of two technical deliverables:
 - part_2_mars_weather_analysis.ipynb: Contains code for scraping and analyzing Mars weather data.
 
 ## Outputs Folder:
-### Contains:
-#### from Deliverable 1:
+### from Deliverable 1:
 - json file  
 - screeshot of import this file.
-#### Deliverable 2:
+### Deliverable 2:
 - graphs (plot)
 - CSV file.
 
